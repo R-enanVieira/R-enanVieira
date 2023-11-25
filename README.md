@@ -3,6 +3,14 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
+```rust
+From: 30 August 2023 - To: 22 November 2023
+
+Total Time: 0 secs
+
+C++   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
