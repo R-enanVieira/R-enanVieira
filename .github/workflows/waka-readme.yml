@@ -13,6 +13,7 @@ jobs:
         with:
           # Credentials
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           # Flags
           COMMIT_MESSAGE: "Update README statistics"
