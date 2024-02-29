@@ -2,7 +2,7 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%202%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -29,14 +29,13 @@ Sunday                   13 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 8 mins         ████████████████░░░░░░░░░   64.92 % 
-Rust                     36 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
+C++                      1 hr 8 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   1 hr 45 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +51,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2024 18:34:06 UTC
+ Last Updated on 29/02/2024 18:34:03 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
