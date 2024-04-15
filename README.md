@@ -2,6 +2,8 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2052%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -53,7 +55,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:57:59 UTC
+ Last Updated on 15/04/2024 18:35:41 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
