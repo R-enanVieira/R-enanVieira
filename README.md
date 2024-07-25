@@ -2,6 +2,8 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2044%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -49,7 +51,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 18:40:36 UTC
+ Last Updated on 25/07/2024 18:36:42 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
