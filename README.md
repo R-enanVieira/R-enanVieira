@@ -41,17 +41,17 @@ No Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-C                        5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Nushell                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 18/10/2024 18:42:53 UTC
+ Last Updated on 19/10/2024 18:40:47 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
