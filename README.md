@@ -29,13 +29,17 @@ Sunday                   20 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+Other                    36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+CSS                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+JavaScript               27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -51,7 +55,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2024 18:43:02 UTC
+ Last Updated on 24/10/2024 18:43:12 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
