@@ -2,7 +2,7 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2021%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -29,14 +29,14 @@ Sunday                   57 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 9 mins        █████████████████████████   98.01 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               3 hrs 56 mins       ████████████████████████░   96.93 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -52,7 +52,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2024 18:45:07 UTC
+ Last Updated on 04/12/2024 18:47:26 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
