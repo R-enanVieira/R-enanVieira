@@ -2,6 +2,8 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2052%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -49,7 +51,7 @@ Nix                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 18:46:06 UTC
+ Last Updated on 28/03/2025 18:47:50 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
