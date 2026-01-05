@@ -2,7 +2,7 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2032%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -51,7 +51,7 @@ Prolog                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:51:06 UTC
+ Last Updated on 05/01/2026 18:56:42 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
