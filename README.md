@@ -2,6 +2,42 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2032%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                102 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+🌆 Daytime                191 commits         █████████░░░░░░░░░░░░░░░░   34.73 % 
+🌃 Evening                214 commits         ██████████░░░░░░░░░░░░░░░   38.91 % 
+🌙 Night                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  94 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Thursday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Friday                   128 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Saturday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Sunday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -15,7 +51,7 @@ Prolog                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 20:00:15 UTC
+ Last Updated on 16/05/2026 19:38:46 UTC
 <!--END_SECTION:waka-->
 <!--
 **R-enanVieira/R-enanVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
